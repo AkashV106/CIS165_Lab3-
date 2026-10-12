@@ -1,7 +1,7 @@
 # AI Reflection
 
 **Tools used**
-I wrote and compiled the code myself and only used claude to help me in formatting the game_time.cpp code to make it look more presentable 
+I wrote and compiled the code myself and only used claude to help me in formatting the game_time.cpp code to make it look more presentable. I also used claude to draft my readme and give me different ways for the table format and the diffent headings.
 
 **One decision**
 I decided to use longer names for variables after my last code to help me understand them better. It also helped me to understand the code better and gave me a clear view of what I was working with
